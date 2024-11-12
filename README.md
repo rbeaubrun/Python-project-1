@@ -3,7 +3,7 @@
 
 I've always wondered what some of the thought was behind the convenient aid of calculators! I now have an idea of the code that goes behind such a handy tool as a result of what i've learned from my python course. Check out my code to see how we can use Python to calculate the area of various shapes - and get this: you get to choose the shape. Just copy and paste this code into a coding editor and have your pick. 
 
-#here i am printing the title to create a visual effect
+# here i am printing the title to create a visual effect
 print('====================')
 print('Area Calculator')
 print('====================')
